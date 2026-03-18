@@ -1,0 +1,8 @@
+apscheduler
+numpy
+pandas
+pandas-market-calendars
+python-dotenv
+requests
+scikit-learn
+yfinance
